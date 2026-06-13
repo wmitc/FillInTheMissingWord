@@ -1,4 +1,4 @@
-# 6.863J Semantics Framework.
+# 6.863J Semantics Framework
 
 To get started:
 ```
